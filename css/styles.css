@@ -1,0 +1,10 @@
+/* 
+    Moto's font: Linux Libertine,Georgia,Times,serif
+    Fuentes para el resto: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif
+*/
+body {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Lato, Helvetica, Arial, sans-serif;
+}
+a {
+    text-decoration: none;
+}
